@@ -58,7 +58,7 @@ This project analyzes transaction data from a UK-based online retailer to identi
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR-USERNAME/e-commerce-revenue-leakage-analysis.git
+git clone https://github.com/aditya-sachdevaa/e-commerce-revenue-leakage-analysis.git
 
 # 2. Navigate to the project folder
 cd e-commerce-revenue-leakage-analysis
