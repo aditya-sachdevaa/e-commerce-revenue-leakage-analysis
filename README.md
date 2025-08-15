@@ -37,8 +37,7 @@ This project analyzes transaction data from a UK-based online retailer to identi
 
 ---
 
-## 📊 Sample Visualizations
-*(Replace with your own images if saved — recommended for a more visual README)*  
+## 📊 Sample Visualizations 
 **Seasonal Trends**<img width="1210" height="599" alt="image" src="https://github.com/user-attachments/assets/b3b90e21-f1e3-4675-8861-c1ae12e9d568" />
 
 **Effects of Cancelations**<img width="1214" height="574" alt="image" src="https://github.com/user-attachments/assets/217dd40a-072f-4a66-9b94-2260b5b2c580" />
