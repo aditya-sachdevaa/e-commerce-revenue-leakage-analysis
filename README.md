@@ -55,6 +55,21 @@ This project analyzes transaction data from a UK-based online retailer to identi
 ---
 
 ## 🚀 How to Run the Project
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/aditya-sachdevaa/e-commerce-revenue-leakage-analysis.git
+
+```bash
+# 1. Clone the repository
+git clone https://github.com/YOUR-USERNAME/e-commerce-revenue-leakage-analysis.git
+
+# 2. Navigate to the project folder
+cd e-commerce-revenue-leakage-analysis
+
+# 3. Install required libraries
+pip install pandas numpy matplotlib seaborn jupyter
+
+# 4. Download the dataset from UCI Machine Learning Repository
+#    https://archive.ics.uci.edu/ml/datasets/online+retail
+#    and place it in the project folder
+
+# 5. Open the Jupyter Notebook
+jupyter notebook E-Comm_RevenueLeakage_Analysis.ipynb
+
