@@ -12,7 +12,7 @@ This project analyzes transaction data from a UK-based online retailer to identi
 ---
 
 ## 🗂 Dataset
-- **Source:** [Online Retail Dataset – UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/online+retail)  
+- **Source:** [E- Commerce Data](https://www.kaggle.com/datasets/carrie1/ecommerce-data)
 - **Rows:** ~500,000 transactions  
 - **Features:** InvoiceNo, StockCode, Description, Quantity, InvoiceDate, UnitPrice, CustomerID, Country  
 - *(Note: Dataset is not included in this repository due to size/licensing — link above can be used to download.)*
